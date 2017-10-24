@@ -1,0 +1,25 @@
+title: chwast.it
+subtitle: najgorszy podcast programistyczny
+email: email@domain.com
+description: > 
+  Najgorszy podcast programistyczny w Polsce.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chwast.codearsonist.com" # the base hostname & protocol for your site, e.g. http://example.com
+author: chwast.it
+owner: chwast.it
+explicit: false
+album_art: img/albumart.png
+category: todo
+subcategory_one: todo
+subcategory_two: todo
+
+# Build settings
+markdown: kramdown
+# theme: minima
+# gems:
+#   - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - default.nix
+  - gemset.nix
