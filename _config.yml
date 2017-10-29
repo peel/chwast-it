@@ -1,11 +1,15 @@
 title: "chwast.it"
 subtitle: "najgorszy podcast programistyczny"
 email: "peel+podcast@coderasonist.com"
+repo: "peel/podcast"
 description: > 
-  Najgorszy podcast programistyczny w Polsce.
-  Niezobowiazujaco, nieznosnie i pradwopodobnie lekcewazaco o szeroko pojetej inzynierii oprogramowania.
+  Najgorszy podcast programistyczny w Polsce.  
+  Niezobowiazujaco, nieznosnie i pradwopodobnie lekcewazaco o szeroko pojetej inzynierii oprogramowania opowiadaja:  
+  @kwasniew - wielki fan sieci Web i prostych (niekoniecznie popularnych) rozwiązań. Zwolennik odnajdywania oryginalnych problemow zamiast naprawiania symptomow. Programista, speaker, trener.  
+  @kubek2k - pomyslodawca calego zamieszania. Developer praktykujacy programistyczny szamanizm. Szczerze niewierzacy agilista. Ostatnio nie mamy z nim kontaktu, wiec pewnie popelnia kolejny refactoring.  
+  @peel - señor code arsonist. Praktyk, teoretyk i teolog programowania funkcyjnego. Speaker, maker, milosnik poprawiania tych drobnych rzeczy, ktore irytuja. Wrog zlych rozwiazan. Prawdopodobnie nie raz mu sie narazilas/es. Czarownik evil-mode.   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chwast.codearsonist.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chwast.codearsonist.com"
 author: "chwast.it"
 owner: "chwast.it"
 explicit: no
@@ -17,7 +21,7 @@ subcategory_two: "Tech News"
 # Build settings
 markdown: kramdown
 permalink: /:title
-theme: jekyll-theme-primer
+theme: minima
 # gems:
 #   - jekyll-feed
 exclude:

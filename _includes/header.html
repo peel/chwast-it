@@ -1,0 +1,12 @@
+<style>
+ .site-header { border:0; }
+ .site-header img { padding: 1em 0;}
+ audio {width: 100%;}
+</style>
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="site-title" href="{{ "/" | relative_url }}"><img src="{{ site.url }}/img/landing-logo.png" title="{{ site.title }}" /></a>
+  </div>
+</header>

@@ -60,8 +60,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <content:encoded>
         <![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]>
     </content:encoded>
-
-    <enclosure url="{{ site.url }}/download{{ ep.url }}.mp3" length="{{ ep.length }}" type="audio/mpeg" />
+    <enclosure url="https://media.githubusercontent.com/media/{{ site.repo }}/master/download{{ ep.url }}.mp3" length="{{ ep.length }}" type="audio/mpeg" />
     <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
     <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
     <itunes:author>{{ site.author }}</itunes:author>
