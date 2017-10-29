@@ -18,6 +18,8 @@ category: "Technology"
 subcategory_one: "Software How-To"
 subcategory_two: "Tech News"
 
+google_analytics: UA-108807964-1
+
 # Build settings
 markdown: kramdown
 permalink: /:title
