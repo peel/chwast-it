@@ -27,6 +27,7 @@ theme: minima
 # gems:
 #   - jekyll-feed
 exclude:
+  - README.md
   - Gemfile
   - Gemfile.lock
   - default.nix
