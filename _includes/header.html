@@ -6,9 +6,16 @@
  hr { margin-bottom: 1em; border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);} 
 </style>
 <header class="site-header" role="banner">
-  <div class="wrapper">
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
-    <a class="site-title" href="{{ "/" | relative_url }}"><img src="{{ site.url }}/img/landing-logo.png" title="{{ site.title }}" /></a>
-  </div>
+    <div class="wrapper">
+        {% assign default_paths = site.pages | map: "path" %}
+        {% assign page_paths = site.header_pages | default: default_paths %}
+        <a class="site-title" href="{{ "/" | relative_url }}"><img src="{{ site.url }}/img/landing-logo.png" title="{{ site.title }}" /></a>
+        <p>
+            <a href="{{ site.url }}/feed.xml"><strong>🔈️️subskrybuj</strong></a>
+            <a href="https://github.com/{{ site.repo }}/issues?q=is%3Aissue+label%3Adiscussion"><strong>🗨️ dyskusje</strong></a>
+            <a href="https://github.com/{{ site.repo }}/issues?q=is%3Aissue+label%3Aidea"><strong>✨️ pomysly</strong></a></p>
+        <hr>
+    </div>
 </header>
+
+
