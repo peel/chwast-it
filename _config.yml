@@ -17,6 +17,9 @@ album_art: "/img/albumart.jpg"
 category: "Technology"
 subcategory_one: "Software How-To"
 subcategory_two: "Tech News"
+itunes: https://itunes.apple.com/pl/podcast/chwast-it/id1303100860
+stitcher: https://www.stitcher.com/podcast/chwastit
+feed: https://feeds.feedburner.com/chwastit
 
 google_analytics: UA-108807964-1
 

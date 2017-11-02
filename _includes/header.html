@@ -3,18 +3,25 @@
  .site-header { border:0; }
  .site-header img { padding: 1em 0;}
  audio { width: 100%; }
+ a, a:visited  {color: #90C548;font-weight:bold; }
  hr { margin-bottom: 1em; border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);} 
+ .menu { display: block;}
+ .menu .feed { color: #716559; }
+ .menu a { display:block; width: 20%; text-align:right;float:left; }
 </style>
+<link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" integrity="sha384-dNpIIXE8U05kAbPhy3G1cz+yZmTzA6CY8Vg/u2L9xRnHjJiAK76m2BIEaSEV+/aU" crossorigin="anonymous">
 <header class="site-header" role="banner">
     <div class="wrapper">
         {% assign default_paths = site.pages | map: "path" %}
         {% assign page_paths = site.header_pages | default: default_paths %}
         <a class="site-title" href="{{ "/" | relative_url }}"><img src="{{ site.url }}/img/landing-logo.png" title="{{ site.title }}" /></a>
-        <p>
-            <a href="{{ site.url }}/feed.xml"><strong>🔈️️subskrybuj</strong></a>
-            <a href="https://github.com/{{ site.repo }}/issues?q=is%3Aissue+label%3Adiscussion"><strong>🗨️ dyskusje</strong></a>
-            <a href="https://github.com/{{ site.repo }}/issues?q=is%3Aissue+label%3Aidea"><strong>✨️ pomysły</strong></a></p>
-        <hr>
+        <div class="menu">
+            <a href="{{ site.feed }}" class="feed"><strong><i class="fa fa-podcast" aria-hidden="true"></i> feed</strong></a>
+            <a href="{{ site.itunes }}" class="feed"><strong><i class="fa fa-apple" aria-hidden="true"></i> itunes</strong></a>
+            <a href="{{ site.stitcher }}" class="feed"><strong><i class="fa fa-play" aria-hidden="true"></i> stitcher</strong></a>
+            <a href="https://github.com/{{ site.repo }}/issues?q=is%3Aissue+label%3Adiscussion"><strong><i class="fa fa-comments" aria-hidden="true"></i>dyskusje</strong></a>
+            <a href="https://github.com/{{ site.repo }}/issues?q=is%3Aissue+label%3Aidea"><strong><i class="fa fa-lightbulb-o" aria-hidden="true"></i> pomysły</strong></a>
+        </div>
     </div>
 </header>
 
