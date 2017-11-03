@@ -4,7 +4,7 @@
 We maintain the whole podcast in github, hence all the 
 [**📅 scheduling**](../../issues), 
 [**📄 notes**](../../issues), 
-[**📦 episode files**](../../download) will land in here.  
+[**📦 episode files**](./download) will land in here.  
 Feel free to either [**✅ subscribe**](http://chwast.codearsonist.com/feed.xml) or clone the repo and sync it periodically.  
 As you can see from the logo the podcast is PL-spoken/voiced-over, but feel free to drop as a line.
 
