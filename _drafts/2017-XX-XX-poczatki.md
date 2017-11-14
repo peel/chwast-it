@@ -26,17 +26,24 @@ duration: "00:00"
 - Cos, na co skrycie licze od lat, czyli programisci z wiedza domenowa z innych branzy: miales taki moment, ze byla szansa cos wykorzystac? A moze nawet bys nie chcial?
 - Powiedz co Cie jara w tym IT? Robisz cos dla siebie, po godzinach? Jakie sa Twoje ostatnie zajawki w IT? Lubisz to co robisz? Nie zalujesz?
 - Jak dostac pierwsza prace po bootcampie?
+- Jak wygladalo Twoje pierwsze interview o prace?
 - sugestie dla innych
 
 ## Dyskusja
+- Jak pomoc nowym osobom w branzy?
+- Jak wykorzystac potencjal osob o innym backgroundzie niz my?
 ### @peel 
 - jest fanem bootcampow
 - chce by programowanie stalo sie 'commodity' jak angielski
-- 8h dzien pracy - wynalazek Forda
+- 8h dzien pracy - wynalazek Forda i https://www.reddit.com/r/financialindependence/comments/6iwosx/david_graeber_on_the_value_of_production_and_the/
 - on the phenomenon of bullshit jobs
-- rise of the expert beginner
+- rise of the expert beginner i druga czesc: https://www.daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner
 - dreyfuss' matrix
 - role w IT: domain coder, engineer, scientist
+- r/programming: "Bootcamps are great, so long as you don't expect to be an expert by the time you're done in a few months. Even if you're programming day in and day out after 3 months, you'd be like a very good novice. "
+- Bootcampy rosly jak grzyby po deszczu https://codingbootcamp.berkeley.edu/wp-content/uploads/sites/12/2017/02/berkeley_curriculum_overview.pdf
+- Bootcampy sie zwijaja (w US) - zrodlo
+- Standardy?: https://medium.com/@andytiffany/dear-bootcamps-raise-your-admissions-bars-or-get-out-of-the-way-4d04d466b18ao
 - ...
 ### @kubek2k 
 - boi sie, ze nie chodzi o udostepnianie branzy, a wypelnianie etatow.
