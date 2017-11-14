@@ -49,9 +49,18 @@ duration: "00:00"
 - boi sie, ze nie chodzi o udostepnianie branzy, a wypelnianie etatow.
 - ...
 ### @kwasniew 
-- powsciagliwie podchodzi i do jednego i do drugiego
+- “Badass: Making Users Awesome” w kontekście bootcampów
+- Mam cel - dostac prace i byc w niej efektywnym junior developerem. Jak po bootcampie jestem to znaczy ze dziala. Pytanie czy to jest najbardziej efektywny kosztowo/czasowo sposob. 
+- Dreyfus (konsekwencje, bez opisu bo jest nudny): w kontekście nauczania (na początku dogma jest ok, później nie, z nauczycieli/mentorow/regul/dobrych praktyk sie wyrasta) i przypisywania/definiowania zadań w pracy (reguly moga byc przydatne lub frustrujace)
+- Dreyfus Squared: Dlaczego czasami trudno pracuje się z ekspertami (przekleństwo wiedzy). Nauczanie to umiejętność inna niż technologia.
+- https://link.springer.com/chapter/10.1007/978-3-319-33515-5_25
+- Doświadczenia z pair programmingu (te dobre i te złe).  
+- Przekraczanie suck threshold
+- Odpowiedzialność po stronie uczącego (Carol Dweck - Mindset)
+- Junior dev (ale tez i senior) przede wszystkim potrzebuje poczucia bezpieczenstwa. Jaki sygnal wysylamy ludziom gdy 1 dnia w pracy kazemy im czytac JIRE bo nikt nie ma czasu porozmawiac i wprowadzic osobe do zespolu
+- Pozwolenie na robienie bledow/blameless culture: Etsy, 3-armed sweater
+- Projektowanie materialu dla nowicjuszy jako trener
 - ...
-
 ## Rozmowa z Bartoszem
 - Kto przychodzi na bootcampy?
 - Jak oceniasz zaangazowanie?
