@@ -35,6 +35,8 @@ duration: "00:00"
 ### @peel 
 - jest fanem bootcampow
 - chce by programowanie stalo sie 'commodity' jak angielski
+- smutne technologie, ktore daja prace; a technologie, ktore otwieraja umysl
+- watpliwa jakosc trenerow ze smutnymi doswiadczeniami?
 - 8h dzien pracy - wynalazek Forda i https://www.reddit.com/r/financialindependence/comments/6iwosx/david_graeber_on_the_value_of_production_and_the/
 - on the phenomenon of bullshit jobs
 - rise of the expert beginner i druga czesc: https://www.daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner
