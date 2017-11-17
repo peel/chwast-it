@@ -45,11 +45,13 @@ duration: "00:00"
 - r/programming: "Bootcamps are great, so long as you don't expect to be an expert by the time you're done in a few months. Even if you're programming day in and day out after 3 months, you'd be like a very good novice. "
 - Bootcampy rosly jak grzyby po deszczu https://codingbootcamp.berkeley.edu/wp-content/uploads/sites/12/2017/02/berkeley_curriculum_overview.pdf
 - Bootcampy sie zwijaja (w US) - zrodlo
-- Standardy?: https://medium.com/@andytiffany/dear-bootcamps-raise-your-admissions-bars-or-get-out-of-the-way-4d04d466b18ao
+- Standardy?: https://medium.com/@andytiffany/dear-bootcamps-raise-your-admissions-bars-or-get-out-of-the-way-4d04d466b18ao [deadlink]
 - ...
 ### @kubek2k 
 - boi sie, ze nie chodzi o udostepnianie branzy, a wypelnianie etatow.
-- ...
+  - ale nie oszukujmy sie rynek pracy jest bardzo szeroki
+- bootcamp w kontekscie mobilnosci pracownikow (z kilku(nastu)- letnim doswiadczeniem)
+
 ### @kwasniew 
 - “Badass: Making Users Awesome” w kontekście bootcampów
 - Mam cel - dostac prace i byc w niej efektywnym junior developerem. Jak po bootcampie jestem to znaczy ze dziala. Pytanie czy to jest najbardziej efektywny kosztowo/czasowo sposob. 
