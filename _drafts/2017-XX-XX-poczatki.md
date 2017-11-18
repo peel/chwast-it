@@ -67,6 +67,7 @@ duration: "00:00"
 - ...
 ## Rozmowa z Bartoszem
 - Kto przychodzi na bootcampy?
+  - Czy na waszym bootcampie jest rekrutacja? 
 - Jak oceniasz zaangazowanie?
 - Czy bootcamp wystarczy czy potrzebna jest dalsze wsparcie w pracy?
 - Jako kolega z zespolu, podchodzilbys inaczej niz do juniora po studiach? Zaoferowalbys jakas dodatkowa pomoc?
