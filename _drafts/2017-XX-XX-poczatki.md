@@ -44,7 +44,7 @@ duration: "00:00"
 - role w IT: domain coder, engineer, scientist
 - r/programming: "Bootcamps are great, so long as you don't expect to be an expert by the time you're done in a few months. Even if you're programming day in and day out after 3 months, you'd be like a very good novice. "
 - Bootcampy rosly jak grzyby po deszczu https://codingbootcamp.berkeley.edu/wp-content/uploads/sites/12/2017/02/berkeley_curriculum_overview.pdf
-- Bootcampy sie zwijaja (w US) - zrodlo
+- Bootcampy sie zwijaja (w US) - zrodlo - https://www.inc.com/geoffrey-james/why-coding-bootcamps-dont-work.html
 - Standardy?: https://medium.com/@andytiffany/dear-bootcamps-raise-your-admissions-bars-or-get-out-of-the-way-4d04d466b18ao [deadlink]
 - ...
 ### @kubek2k 
