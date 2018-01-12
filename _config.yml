@@ -9,7 +9,7 @@ description: >
   @kubek2k - pomysłodawca całego zamieszania. Developer praktykujący programistyczny szamanizm. Szczerze niewierzacy agilista. Ostatnio nie mamy z nim kontaktu, więc pewnie popełnia kolejny refactoring.  
   @peel - señor code arsonist. Praktyk, teoretyk i teolog programowania funkcyjnego. Speaker, maker, miłośnik poprawiania tych drobnych rzeczy, które irytują. Wróg złych rozwiązań. Prawdopodobnie nie raz mu się naraziliście. Czarownik evil-mode.   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chwast.codearsonist.com"
+url: "https://chwast.it"
 author: "chwast.it"
 owner: "chwast.it"
 explicit: no
